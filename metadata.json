@@ -1,0 +1,6 @@
+{
+  "name": "Quick Recharge India",
+  "description": "Mobile recharge and rewards app for Jio, Airtel, Vi, and BSNL with rewards and secure payments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
